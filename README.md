@@ -1,5 +1,3 @@
-# das1-erick-dalabona
-
 # Design e Arquitetura de Software 1
 
 ## Identificação
