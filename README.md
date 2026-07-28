@@ -1,1 +1,25 @@
 # das1-erick-dalabona
+
+# Design e Arquitetura de Software 1
+
+## Identificação
+
+- Nome:
+- Turma:
+- Curso: Engenharia de Software
+
+## Meu conhecimento atual
+
+Descreva brevemente sua experiência com desenvolvimento de software.
+
+## Minhas expectativas
+
+Descreva o que espera aprender na disciplina.
+
+## Área de interesse
+
+Informe em qual área de tecnologia pretende atuar ou possui maior interesse.
+
+## O que considero um software bem projetado?
+
+Escreva uma resposta curta utilizando suas próprias palavras.
